@@ -17,6 +17,7 @@
 }
 
 h1 {
+    margin-top: 30px;
     font-size: 40px;
     font-weight: 800;
 }
@@ -50,7 +51,7 @@ p {
     text-decoration: underline;
 }
 
-@media(max-width: 700px){
+@media(max-width: 650px){
     .row{
         flex-direction: column;
     }
