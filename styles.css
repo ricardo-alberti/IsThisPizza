@@ -51,7 +51,7 @@ p {
     text-decoration: underline;
 }
 
-@media(max-width: 500px){
+@media(max-width: 700px){
     .row{
         flex-direction: column;
     }
