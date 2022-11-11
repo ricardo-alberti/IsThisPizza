@@ -59,6 +59,9 @@ p {
     .row{
         flex-direction: column;
     }
+    hr {
+        display: block;
+    }
     img {
         margin-top: 30px;
         height: 80vh;
